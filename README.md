@@ -1,1 +1,1 @@
-# proyecto-jpa
+# proyecto-jpa-demo
